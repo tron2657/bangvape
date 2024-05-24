@@ -1,0 +1,16 @@
+/.idea
+/runtime
+/application/database.php
+/public/install/install.lock
+.DS_Store
+.user.ini
+/update/v1.9.0
+/update/v1.9.0
+/public/install/code.txt
+/.vscode
+
+/public/uploads
+ueditor/php/upload
+public/uploads/tmp60375dc9b0354.png
+public/uploads/tmp60375dc9b0354.png
+public/uploads/6e5a0d35a6b2ef6b7f7cc372df414df7.md5
